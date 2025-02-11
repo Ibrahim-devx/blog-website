@@ -16,4 +16,4 @@ A fully functional blog website built with Flask, HTML, CSS, and SQLite.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/Ibrahim-devx/blog-website.git
