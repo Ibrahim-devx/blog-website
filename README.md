@@ -2,8 +2,7 @@
 
 A fully functional blog website built with Flask, HTML, CSS, and SQLite.
 
-![Website Preview](screenshot.png)
-
+![Website Preview](blog-website-screenshot.png)
 Check out the live site here: [Live Demo](https://ibrahim-devx.github.io/blog-website/)
 ## Features
 - User authentication (login/signup).
